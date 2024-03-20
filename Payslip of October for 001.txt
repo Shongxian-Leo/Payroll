@@ -1,0 +1,12 @@
+************** APU Sdn Bhd's Payroll***************
+Payslip for the Month of October
+Employee_ID: 001		 Employee Name: Leo
+Department: IT
+Basic Salary: 3000
+Allowance: 200
+Bonus: 0
+OT: 150
+Gross Salary: 3350
+Deduct: Tax (6% before EPF, Exceed RM 3000): 201.0
+Deduct: EPF (11%): 346.39
+Net Salary: 2802.61
